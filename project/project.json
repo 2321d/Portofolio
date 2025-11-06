@@ -1,40 +1,40 @@
 [
     {
-        "title": "Form Website",
-        "tech": "HTML & CSS",
-        "image": "./assets/img/project/form.png",
-        "desc":"This is my first project. I Learn in freecodecamp to make form website using HTML & CSS",
+        "title": "Grilli Cafe Website",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Grilli_Cafee.png",
+        "desc":"This is my project for dicoding submission.",
         "links": {
-            "demo": "https://septiandwica.github.io/Survey-Form/",
-            "code": "https://github.com/Septiandwica/Survey-Form"
+            "demo": "https://2321d.github.io/Grilli_Cafe/",
+            "code": ""
         }
     },
     {
-        "title": "Learn Code Website",
+        "title": "Coffee Shop Website ",
         "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/proyek web dasar.png",
+        "image": "./assets/img/project/Kedai_Kopi.png",
         "desc":"This is my for dicoding submission.",
         "links": {
-            "demo": "https://septiandwica.github.io/Project-Web-Dasar/",
-            "code": "https://github.com/Septiandwica/Project-Web-Dasar"
+            "demo": "https://2321d.github.io/Kedai_Kopi/#",
+            "code": ""
         }
     },{
-        "title": "BookShelf Web App",
+        "title": "Tourist Destination Website",
         "tech": "HTML & CSS",
-        "image": "./assets/img/project/bookshelf app.png",
+        "image": "./assets/img/project/Destinasi_Wisata.png",
         "desc":"This is my project for dicoding submission.",
         "links": {
-            "demo": "https://septiandwica.github.io/bookshelf-app/",
-            "code": "https://github.com/Septiandwica/bookshelf-app"
+            "demo": "https://2321d.github.io/Destinasi_Wisata//",
+            "code": ""
         }
     },{
-        "title": "Company Profile",
-        "tech": "HTML, CSS, JS & BOOTSTRAP",
-        "image": "./assets/img/project/proyek freelance.png",
-        "desc": "This is my project for company profile(Thalia Education)",
+        "title": "Login Form Website",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/Form_Login.png",
+        "desc": "This is my project for dicoding submission.",
         "links": {
-            "demo": "https://thaliaeducation.septiandwica.site",
-            "code": "https://github.com/Septiandwica/Company-Profile-1"
+            "demo": "https://2321d.github.io/Login_Form/",
+            "code": ""
         }
     },{
         "title": "Portfolio Website",
@@ -42,8 +42,8 @@
         "image": "./assets/img/project/portfolio.png",
         "desc": "This is my project for personal portfolio.",
         "links": {
-            "demo": "https://septiandwica.site",
-            "code": "https://github.com/Septiandwica/"
+            "demo": "https://2321d.github.io/Portofolio/",
+            "code": ""
         }
     }
 ]
